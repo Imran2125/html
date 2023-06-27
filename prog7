@@ -1,0 +1,7 @@
+<html>
+<body >
+<h1>Digital Clock</h1>
+<h2>HH:MM:SS</h2>
+<iframe src="prog7.php" frameborder="0" width="2000"></iframe>
+</body>
+</html>
