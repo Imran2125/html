@@ -32,7 +32,7 @@ function ShrinkText1()
 
 
 {
-if(size>5)
+if(size<5)
 {
 }
 
